@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    padding-top: 50px;
+}
+
+.jumbotron {
+    color: #ffffff;
+    margin:  20px 5px 30px 5px;
+    background-image: url(ZPLiC3.webp);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 50px 50px 50px 50px;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.card {
+    margin-bottom: 20px;
+    background-image: url(green-grass-lawn-top-view.webp);
+    color: #ffffff;
+    border-radius: 20px 0px 20px 0px;
+}
+
+.btn {
+    color: #000000;
+    border: none;
+    background-color: #ffffff;
+    border-radius: 0px 10px 0px 10px;
+}
